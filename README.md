@@ -14,6 +14,6 @@ I'm a cybersecurity student focused on red teaming, blue team awareness, and pra
 - `scripts/`: Custom enumeration, automation, and recon scripts
 - `lab-notes/`: My personal experiments and homelab notes
 
-## 🔗 Connect
+## Connect
 - [LinkedIn](https://www.linkedin.com/in/joshuasneddon/)
 - [TryHackMe Profile](https://tryhackme.com/p/lathsmall02)
